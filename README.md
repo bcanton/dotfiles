@@ -1,6 +1,6 @@
 # Barry’s dotfiles
-# I forked Mathias's dotfiles repo and then replaced most of his
-# dotfiles with mine.
+
+I forked Mathias's dotfiles repo and then replaced most of his dotfiles with mine.
 
 ## Installation
 
@@ -24,8 +24,6 @@ Alternatively, to update while avoiding the confirmation prompt:
 set -- -f; source bootstrap.sh
 ```
 
-When setting up a new Mac, you may want to install some common [Homebrew](http://brew.sh/) formulae (after installing Homebrew, of course):
-
 # Terminal Customization
 
 * Install Oh My Zsh - https://github.com/robbyrussell/oh-my-zsh
@@ -44,6 +42,8 @@ ssh-keygen
 
 # Enable all possible time machine backups
 defaults write com.apple.systempreferences TMShowUnsupportedNetworkVolumes 1
+
+When setting up a new Mac, you may want to install some common [Homebrew](http://brew.sh/) formulae (after installing Homebrew, of course):
 
 ```bash
 brew bundle ~/Brewfile
