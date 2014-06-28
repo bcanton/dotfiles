@@ -1,0 +1,17 @@
+syntax enable
+set background=dark
+colorscheme solarized
+
+set guifont=Inconsolata:h16
+
+func! WordProcessorMode()
+  setlocal formatoptions=1
+  setlocal noexpandtab
+  map j gj
+  map k gk
+  set formatprg=par
+  setlocal wrap
+  setlocal linebreak
+  setlocal nonumber
+endfu
+com! WP call WordProcessorMode()
