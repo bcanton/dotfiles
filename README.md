@@ -32,6 +32,10 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 * Install Solarized for Terminal - https://github.com/tomislav/osx-terminal.app-colors-solarized
 * Font: Inconsolata 16
 
+# Vim customization
+
+* Install Janus
+
 # Set search domains so you can just type hostnames in terminal
 Go to network preferences, DNS, add openvpn explicitly and in the second position add ginkgobioworks.com
 
