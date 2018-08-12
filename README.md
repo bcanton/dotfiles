@@ -26,14 +26,14 @@ set -- -f; source bootstrap.sh
 
 # Terminal Customization
 
-* Install Oh My Zsh - https://github.com/robbyrussell/oh-my-zsh
+* Install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * Install Solarized for Terminal - https://github.com/tomislav/osx-terminal.app-colors-solarized
 * Font: Inconsolata 16
 
 # MacVim
-* https://stackoverflow.com/questions/21012203/how-can-i-install-macvim-on-os-x
+* [Install](https://stackoverflow.com/questions/21012203/how-can-i-install-macvim-on-os-x)
 * To make MacVim findable by Spotlight, right click the homebrew MacVim application (in /usr/local/Cellar/macvim/) > "Make Alias" and moving that into /Applications.
-* Install Janus
+* Install [Janus](https://github.com/carlhuda/janus)
 
 # Set search domains so you can just type hostnames in terminal
 Go to network preferences, DNS, add openvpn explicitly and in the second position add ginkgobioworks.com
