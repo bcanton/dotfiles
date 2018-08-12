@@ -30,8 +30,8 @@ set -- -f; source bootstrap.sh
 * Install Solarized for Terminal - https://github.com/tomislav/osx-terminal.app-colors-solarized
 * Font: Inconsolata 16
 
-# Vim customization
-
+# MacVim
+* https://stackoverflow.com/questions/21012203/how-can-i-install-macvim-on-os-x
 * Install Janus
 
 # Set search domains so you can just type hostnames in terminal
