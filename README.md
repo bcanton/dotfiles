@@ -32,6 +32,7 @@ set -- -f; source bootstrap.sh
 
 # MacVim
 * https://stackoverflow.com/questions/21012203/how-can-i-install-macvim-on-os-x
+* To make MacVim findable by Spotlight, right click the homebrew MacVim application (in /usr/local/Cellar/macvim/) > "Make Alias" and moving that into /Applications.
 * Install Janus
 
 # Set search domains so you can just type hostnames in terminal
