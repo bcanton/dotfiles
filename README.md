@@ -28,7 +28,7 @@ set -- -f; source bootstrap.sh
 
 * Install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * Install Solarized for Terminal - https://github.com/tomislav/osx-terminal.app-colors-solarized
-* Font: Inconsolata 16
+* Font: [Inconsolata](https://github.com/powerline/fonts)
 
 # MacVim
 * [MacVim](https://stackoverflow.com/questions/21012203/how-can-i-install-macvim-on-os-x)
