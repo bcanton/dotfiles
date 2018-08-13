@@ -64,6 +64,7 @@ defaults write com.apple.dock mouse-over-hilite-stack -bool true
 
 # Automatically hide and show the Dock
 defaults write com.apple.dock autohide -bool true
+defaults write com.apple.dock 'orientation' -string 'right'
 
 # Hot corners
 # Possible values:
