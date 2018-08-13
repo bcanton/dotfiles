@@ -18,12 +18,6 @@ To update, `cd` into your local `dotfiles` repository and then:
 ./bootstrap.sh
 ```
 
-Alternatively, to update while avoiding the confirmation prompt:
-
-```bash
-set -- -f; source bootstrap.sh
-```
-
 # Terminal Customization
 
 * Install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
