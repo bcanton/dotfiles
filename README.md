@@ -28,7 +28,7 @@ set -- -f; source bootstrap.sh
 
 * Install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 * Install Solarized for Terminal - https://github.com/tomislav/osx-terminal.app-colors-solarized
-* Font: [Inconsolata](https://github.com/powerline/fonts)
+* Font: [Inconsolata](https://github.com/powerline/fonts) - needed to support agnoster
 * Might need to rerun bootstrap.sh after this since .zshrc might be overwritten.
 
 # MacVim
