@@ -37,7 +37,7 @@ set -- -f; source bootstrap.sh
 * [Janus](https://github.com/carlhuda/janus)
 
 # Google Calendar
-* [Nativefier[(https://www.npmjs.com/package/nativefier)
+* [Nativefier](https://www.npmjs.com/package/nativefier)
 
 # Set search domains so you can just type hostnames in terminal
 Go to network preferences, DNS, add openvpn explicitly and in the second position add ginkgobioworks.com
