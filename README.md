@@ -15,7 +15,7 @@ git clone https://github.com/bcanton/dotfiles.git && cd dotfiles && source boots
 To update, `cd` into your local `dotfiles` repository and then:
 
 ```bash
-source bootstrap.sh
+./bootstrap.sh
 ```
 
 Alternatively, to update while avoiding the confirmation prompt:
